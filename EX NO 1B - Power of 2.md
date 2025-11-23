@@ -1,5 +1,5 @@
 # EX 1B – Factorial of a Number
-## Date : 18/09/2025
+
 
 ## Aim
 To write a Java program that reads an integer **N** from the user and calculates the factorial of the given number.
